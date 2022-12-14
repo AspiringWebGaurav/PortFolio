@@ -15,7 +15,7 @@ body{
 }
 
 :root{
- --primary: #5fc49a;
+ --primary: rgb(229, 229, 19);
  --dark: #161616;
  --pure:#FFFFFF;
  --ternary:#898989;
@@ -226,7 +226,7 @@ section.about{
     justify-content: space-between; */
     flex-wrap: wrap;
     padding: 0.5rem 0;
-    color: #5fc49a;
+    color: #c45f5f;
     text-align: center;
     padding-left: 1rem;
 
