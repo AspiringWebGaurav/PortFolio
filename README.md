@@ -1,4 +1,4 @@
-# Deployed Link - https://gaurav-patil.netlify.app/
+# Deployed Link - https://gaurav-patil-portfolio.netlify.app/
 
 # Created using HTML CSS and JavaScript
 
